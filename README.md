@@ -36,7 +36,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
     alt="Java">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
     width="60px"
     alt="Groovy">
     &nbsp;&nbsp;&nbsp;&nbsp;
