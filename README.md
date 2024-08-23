@@ -22,7 +22,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
 
 ## Conéctate Conmigo 🔗
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>](https://linkedin.com/in/paulo-bertino-424818272)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>](https://ar.linkedin.com/in/matias-bertino-5abab41ba?trk=people-guest_people_search-card)
 
 <h1>Conocimiento</h1>
 
