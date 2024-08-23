@@ -98,6 +98,11 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
     width="60px"
     alt="VS Code">
     &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+    width="60px"
+    alt="VS Code">
+    &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ## Lenguajes y Herramientas 🛠️
