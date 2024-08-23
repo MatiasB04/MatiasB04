@@ -26,7 +26,6 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
 </br>
 
 <div align="center" width="100">
-  <h1>Stack</h1>
 
   <!-- Languages -->
   </br>
