@@ -7,12 +7,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="center">
-  <img src="[https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png](https://wallpaper.forfun.com/fetch/99/9998247f121f83a099c19ab8f6232db8.jpeg?w=1470&r=0.5625)" height="230"/>
-</p>
-
-
-<p align="center">
-  <img src="https://www.enter.co/wp-content/uploads/2021/02/4401280-768x432.jpg" alt="Imagen Portada">
+  <img src="[https://www.enter.co/wp-content/uploads/2021/02/4401280-768x432.jpg](https://wallpaper.forfun.com/fetch/99/9998247f121f83a099c19ab8f6232db8.jpeg?w=1470&r=0.5625)" alt="Imagen Portada">
 </p>
 
 ¡Hola! Soy Paulo Alejandro Bertino, un apasionado desarrollador de backend de Argentina, profundamente involucrado en el mundo de la programación y la tecnología.
