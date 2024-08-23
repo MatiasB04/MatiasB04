@@ -18,7 +18,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
 ## Información de Contacto 📫
 
 - Puedes contactarme en [matiasbertino07@gmail.com](mailto:matiasbertino07@gmail.com).
-- Explora mi CV en línea [aquí](file:///D:/Instituto%20Superior%20Villa%20del%20Rosario/2024/Ingenier%C3%ADa%20de%20software/15.%2009.08.2024/Curr%C3%ADculum%20Vitae%20(Matias%20Bertino).pdf).
+- Explora mi CV en línea [aquí]().
 
 ## Conéctate Conmigo 🔗
 
