@@ -80,11 +80,6 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
     width="60px"
     alt="PostgreSQL">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"
-    width="60px"
-    alt="Firebase">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Tools -->
   </br>
@@ -106,7 +101,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"
-    width="80px"
+    width="180px"
     alt="VS Code">
     &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
