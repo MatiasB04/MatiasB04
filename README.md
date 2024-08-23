@@ -41,7 +41,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
     alt="Groovy">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
     width="60px"
     alt="Typescript">
     &nbsp;&nbsp;&nbsp;&nbsp;
