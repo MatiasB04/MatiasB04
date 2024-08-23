@@ -8,7 +8,7 @@
 
 ## Sobre Mí 🚀
 
-Soy un desarrollador con experiencia en JavaScript, C# y Microsoft.net En la actualidad, estoy completamente enfocado en el proyecto **Aneyeon-PETS**, donde canalizo mis habilidades para crear soluciones innovadoras.
+Soy un desarrollador con experiencia en JavaScript, C# y Microsoft.net En la actualidad, estoy completamente enfocado en el un proyecto de **Sistema de Ventas**, donde canalizo mis habilidades para crear soluciones innovadoras.
 
  <!-- - 🔭 Actualmente estoy dedicado a **Aneyeon-PETS** -->
 - 🌱 Estoy aprendiendo y mejorando continuamente con **C# y JavaScript**
