@@ -70,12 +70,12 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
   </br>
   <h3>Almacenamientos</h3>
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+    src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
     width="60px"
     alt="Oracle">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
     width="60px"
     alt="PostgreSQL">
     &nbsp;&nbsp;&nbsp;&nbsp;
