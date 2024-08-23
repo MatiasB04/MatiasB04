@@ -63,7 +63,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"
-    width="60px"
+    width="50px"
     alt="sass">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
@@ -72,12 +72,12 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
   <h3>Almacenamientos</h3>
   <img
     src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-    width="60px"
+    width="80px"
     alt="Oracle">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-    width="60px"
+    width="80px"
     alt="PostgreSQL">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
