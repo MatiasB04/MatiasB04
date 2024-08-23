@@ -89,7 +89,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
   </br>
   <h3>Herramientas 🛠️</h3>
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
     width="60px"
     alt="Git">
     &nbsp;&nbsp;&nbsp;&nbsp;
