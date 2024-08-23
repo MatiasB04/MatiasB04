@@ -27,7 +27,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
 <h1></h1>
 <div align="center" width="100">
 
- ##  <!-- Languages -->
+  <!-- Languages -->
   </br>
   <h3>Lenguajes</h3>
   <img
@@ -66,7 +66,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
     alt="sass">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
-##   <!-- Storages -->
+  <!-- Storages -->
   </br>
   <h3>Almacenamientos</h3>
   <img
@@ -104,7 +104,6 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
     alt="VS Code">
     &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
 
 ## Estadísticas de GitHub 📊
 
