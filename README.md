@@ -7,7 +7,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="center">
-  <img src="https://wallpaper.forfun.com/fetch/36/3676655073eddeb57f9efafe127f821b.jpeg" alt="Imagen Portada">
+  <img src="https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2021/11/Frame-57.png" alt="Imagen Portada">
 </p>
 
 ¡Hola! Soy Paulo Alejandro Bertino, un apasionado desarrollador de backend de Argentina, profundamente involucrado en el mundo de la programación y la tecnología.
