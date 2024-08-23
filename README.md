@@ -4,7 +4,7 @@
   <img src="https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2021/11/Frame-57.png" alt="Imagen Portada">
 </p>
 
-¡Hola! Soy Paulo Alejandro Bertino, un apasionado desarrollador de backend de Argentina, profundamente involucrado en el mundo de la programación y la tecnología.
+¡Hola! Soy Matías Emiliono Bertino, un apasionado desarrollador de backend de Argentina, profundamente involucrado en el mundo de la programación y la tecnología.
 
 ## Sobre Mí 🚀
 
@@ -23,8 +23,9 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
 ## Conéctate Conmigo 🔗
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>](https://linkedin.com/in/paulo-bertino-424818272)
-</br>
- <h1>Stack</h1>
+
+<h1></h1>
+
 <div align="center" width="100">
 
   <!-- Languages -->
