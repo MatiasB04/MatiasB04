@@ -85,7 +85,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
     alt="Firebase">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
- ##  <!-- Tools -->
+  <!-- Tools -->
   </br>
   <h3>Herramientas 🛠️</h3>
   <img
