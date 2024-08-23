@@ -31,7 +31,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
   </br>
   <h3>Lenguajes</h3>
   <img
-    src="https://www.cprogramming.com/"
+    src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
     width="60px"
     alt="Java">
     &nbsp;&nbsp;&nbsp;&nbsp;
