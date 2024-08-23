@@ -87,7 +87,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
   
   <!-- Tools -->
   </br>
-  <h3>Tools</h3>
+  <h3>Herramientas 🛠️</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
     width="60px"
