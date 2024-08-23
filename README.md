@@ -27,7 +27,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
 <h1></h1>
 <div align="center" width="100">
 
-  <!-- Languages -->
+ ##  <!-- Languages -->
   </br>
   <h3>Lenguajes</h3>
   <img
@@ -66,7 +66,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
     alt="sass">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <!-- Storages -->
+##   <!-- Storages -->
   </br>
   <h3>Almacenamientos</h3>
   <img
@@ -85,7 +85,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
     alt="Firebase">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <!-- Tools -->
+ ##  <!-- Tools -->
   </br>
   <h3>Herramientas 🛠️</h3>
   <img
@@ -105,24 +105,6 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
     &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-## Lenguajes y Herramientas 🛠️
-
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
 
 ## Estadísticas de GitHub 📊
 
