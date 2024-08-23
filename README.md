@@ -24,10 +24,6 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>](https://linkedin.com/in/paulo-bertino-424818272)
 
-<!-- STACK -->
-<div align="center" width="100">
-  <h1>Stack</h1>
-  
   <!-- Languages -->
   </br>
   <h3>Languages</h3>
