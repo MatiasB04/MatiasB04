@@ -11,7 +11,7 @@
 Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la actualidad, estoy completamente enfocado en el proyecto **Aneyeon-PETS**, donde canalizo mis habilidades para crear soluciones innovadoras.
 
 - 🔭 Actualmente estoy dedicado a **Aneyeon-PETS**
-- 🌱 Estoy aprendiendo y mejorando continuamente con **Node.js y Express.js**
+- 🌱 Estoy aprendiendo y mejorando continuamente con **C# y JavaScript**
 - 💬 No dudes en preguntarme sobre **JavaScript, Node.js y Express.js**
 - ⚡ **Dato Curioso:** ¡No soy un mago; solo soy un desarrollador de backend trabajando con Node.js! 🧙‍♂️💼
 
