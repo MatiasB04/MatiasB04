@@ -101,7 +101,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"
-    width="180px"
+    width="100px"
     alt="VS Code">
     &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
