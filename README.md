@@ -4,7 +4,7 @@
   <img src="https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2021/11/Frame-57.png" alt="Imagen Portada">
 </p>
 
-¡Hola! Soy Matías Emiliono Bertino, un apasionado desarrollador de backend de Argentina, profundamente involucrado en el mundo de la programación y la tecnología.
+¡Hola! Soy Matías Emiliano Bertino, un apasionado desarrollador de backend de Argentina, profundamente involucrado en el mundo de la programación y la tecnología.
 
 ## Sobre Mí 🚀
 
