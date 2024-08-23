@@ -17,7 +17,7 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
 
 ## Información de Contacto 📫
 
-- Puedes contactarme en [bertinopaulo242@gmail.com](mailto:bertinopaulo242@gmail.com).
+- Puedes contactarme en [matiasbertino07@gmail.com](mailto:matiasbertino07@gmail.com).
 - Explora mi CV en línea [aquí](https://paulobertino.github.io/).
 
 ## Conéctate Conmigo 🔗
