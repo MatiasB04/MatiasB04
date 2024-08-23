@@ -45,8 +45,8 @@ Soy un desarrollador con experiencia en JavaScript, Node.js y Express.js. En la 
 
 ## Estadísticas de GitHub 📊
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobertino&layout=compact)](https://github.com/paulobertino)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasB04&layout=compact)](https://github.com/MatiasB04)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulobertino)](https://github.com/paulobertino)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatiasB04)](https://github.com/MatiasB04)
 
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y ponerte en contacto si tienes alguna pregunta o ideas de colaboración.
