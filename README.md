@@ -22,7 +22,7 @@ Soy un desarrollador con experiencia en JavaScript, C# y Microsoft.net. En la ac
 
 ## Conéctate Conmigo 🔗
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>](https://ar.linkedin.com/in/matias-bertino-5abab41ba?trk=people-guest_people_search-card)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>](https://www.linkedin.com/in/mat%C3%ADas-emiliano-bertino-265024325/trk=people-guest_people_search-card)
 
 <h1>Conocimiento</h1>
 
