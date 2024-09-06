@@ -17,7 +17,7 @@ Soy un desarrollador con experiencia en JavaScript, C# y Microsoft.net. En la ac
 
 ## Información de Contacto 📫
 
-- Puedes contactarme en [matiasbertino07@gmail.com](mailto:matiasbertino12@gmail.com).
+- Puedes contactarme en [matiasbertino12@gmail.com](mailto:matiasbertino12@gmail.com).
 - Explora mi CV [aquí](https://github.com/MatiasB04/MatiasB04/blob/main/Curr%C3%ADculum%20Vitae%20(Matias%20Bertino).pdf).
 
 ## Conéctate Conmigo 🔗
